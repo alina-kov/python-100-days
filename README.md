@@ -1,8 +1,12 @@
-# Day 18 - Hirst Painting
+# Python 100 Days — Day 18
 
-A project that generates a spot painting in the style of Damien Hirst.
+Hirst-style dot painting created with Python Turtle.
 
-**Main features:**
-* Extracted colors from an image using `colorgram`.
-* Used `turtle` graphics to draw a 10x10 grid of dots.
-* Practiced nested loops and coordinate management in Python.
+## What it does
+- Uses a predefined color palette extracted from an image
+- Draws a grid of colored dots using Turtle graphics
+- Grid size and spacing are configurable in the code
+
+## How to run
+```bash
+python main.py
